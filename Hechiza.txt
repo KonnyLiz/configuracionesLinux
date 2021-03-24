@@ -1,6 +1,10 @@
 ## Drivers de video
     Necesita drivers para 
 
+## Debian 10 configuracion de su
+    Debian 10 solo acepta -su para ciertas peticiones, pero no es lo mismo
+    por lo que hay que configurar el comando su
+
 ## Driver de tarjeta wifi
     Instalar con el comando: apt-get firmware-realtek
     reiniciar
