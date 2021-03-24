@@ -14,3 +14,7 @@
     ** Limpieza de cabezales
         Instalar Con el comando: apt-get install escputil
         Ejecucion: escputil -c -u -r /dev/usb/lp0
+
+## para descomprimir archivos .rar con contrasena
+    instalar: apt-get install unrar
+    ejecución: unrar x tiktokForBussiness.rar OJO: no funciona si el nombre del archivo contiene espacios
