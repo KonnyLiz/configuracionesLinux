@@ -1,0 +1,12 @@
+## Drivers de video
+    Necesita drivers para 
+
+## Driver de tarjeta wifi
+    Instalar con el comando: apt-get firmware-realtek
+    reiniciar
+
+## Para impresora Epson L3110
+
+    ** Limpieza de cabezales
+        Instalar Con el comando: apt-get install escputil
+        Ejecucion: escputil -c -u -r /dev/usb/lp0
