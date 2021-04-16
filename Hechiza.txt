@@ -11,6 +11,15 @@
     Instalar con el comando: apt-get firmware-realtek
     reiniciar
 
+## Xampp en Debian
+    Desinstalar completamente Apache2
+    Instalar la ultima version de Xampp e instalar
+
+    Para ejecutar desde consola
+        /opt/lampp/lampp start
+        /opt/lampp/lampp restart
+        /opt/lampp/lampp stop
+
 ## Instalar whatsapp y telegram desktop
     comando: apt-get install telegram-desktop
     whatsapp se descarga el paquete .deb
